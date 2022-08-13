@@ -3,7 +3,7 @@
 > 🔎 **Basic CSS knowledge is required !**
 
 ## Organize your rules:
-> In CSS, we can use a looottt of rules for any one element !
+> In CSS, we can use a looottt of rules for only one element !
 > This can result in a very big block, and sometimes we can't find a specific rule
 
 > This is why we recommend to organize your rules, for example:
